@@ -1,1 +1,0 @@
-cargo:rustc-cfg=self_span_hack
